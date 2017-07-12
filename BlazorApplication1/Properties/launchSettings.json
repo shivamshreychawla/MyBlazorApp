@@ -18,7 +18,7 @@
     },
     "BlazorApplication1": {
       "commandName": "Executable",
-      "executablePath": "dotnet",
+      "executablePath": "C:\\Program Files\\dotnet\\dotnet.exe",
       "commandLineArgs": "blazor serve"
     }
   }
